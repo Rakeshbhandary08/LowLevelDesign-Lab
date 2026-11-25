@@ -47,7 +47,4 @@ new SendEmail().sendingMail(user)
 
 
 
-// order.sendConfirmationEmail();
-// order.printInvoice();
-
 
